@@ -1,7 +1,7 @@
 # Johni Voss Michels
 
 > :email: johni.michels@gmail.com
-> :telephone_receiver: +55 48 99999-9999
+> :telephone_receiver: +55 48 99910-2567
 > :link: [LinkedIn](https://www.linkedin.com/in/johni-michels/?locale=en_US)
 > :link: [GitHub](https://github.com/johnimichels)
 
