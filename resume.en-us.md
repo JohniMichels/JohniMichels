@@ -17,11 +17,19 @@ With hands-on experience across the entire data lifecycle, I am ready to handle 
 
 ___
 
+> ### Technical Data Lead
+>
+> **Mercado Libre**
+> *Osasco, Brazil*
+> Jul/2024 - Present
+
+As a Technical Lead in Data & Analytics helping financial teams, my main responsibility is draw the system architecture for the solutions we provide.
+
 > ### Data Team Lead
 >
 > **Kovi**
 > *São Paulo, Brazil*
-> Apr/2022 - Current
+> Apr/2022 - Jul/2024 [2 years 4 months]
 
 As Data Team Lead at Kovi, I managed a team of analysts and data scientists to ensure best practices and metrics across all areas of the company. My role was crucial in enhancing data governance and quality, as well as driving the transformation of raw data into valuable data products.
 
